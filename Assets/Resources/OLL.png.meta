@@ -1,0 +1,1475 @@
+fileFormatVersion: 2
+guid: ef0731011ee7c144493081be74c6a334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: OLL_0
+  - first:
+      213: 21300002
+    second: OLL_1
+  - first:
+      213: 21300004
+    second: OLL_2
+  - first:
+      213: 21300006
+    second: OLL_3
+  - first:
+      213: 21300008
+    second: OLL_4
+  - first:
+      213: 21300010
+    second: OLL_5
+  - first:
+      213: 21300012
+    second: OLL_6
+  - first:
+      213: 21300014
+    second: OLL_7
+  - first:
+      213: 21300016
+    second: OLL_8
+  - first:
+      213: 21300018
+    second: OLL_9
+  - first:
+      213: 21300020
+    second: OLL_10
+  - first:
+      213: 21300022
+    second: OLL_11
+  - first:
+      213: 21300024
+    second: OLL_12
+  - first:
+      213: 21300026
+    second: OLL_13
+  - first:
+      213: 21300028
+    second: OLL_14
+  - first:
+      213: 21300030
+    second: OLL_15
+  - first:
+      213: 21300032
+    second: OLL_16
+  - first:
+      213: 21300034
+    second: OLL_17
+  - first:
+      213: 21300036
+    second: OLL_18
+  - first:
+      213: 21300038
+    second: OLL_19
+  - first:
+      213: 21300040
+    second: OLL_20
+  - first:
+      213: 21300042
+    second: OLL_21
+  - first:
+      213: 21300044
+    second: OLL_22
+  - first:
+      213: 21300046
+    second: OLL_23
+  - first:
+      213: 21300048
+    second: OLL_24
+  - first:
+      213: 21300050
+    second: OLL_25
+  - first:
+      213: 21300052
+    second: OLL_26
+  - first:
+      213: 21300054
+    second: OLL_27
+  - first:
+      213: 21300056
+    second: OLL_28
+  - first:
+      213: 21300058
+    second: OLL_29
+  - first:
+      213: 21300060
+    second: OLL_30
+  - first:
+      213: 21300062
+    second: OLL_31
+  - first:
+      213: 21300064
+    second: OLL_32
+  - first:
+      213: 21300066
+    second: OLL_33
+  - first:
+      213: 21300068
+    second: OLL_34
+  - first:
+      213: 21300070
+    second: OLL_35
+  - first:
+      213: 21300072
+    second: OLL_36
+  - first:
+      213: 21300074
+    second: OLL_37
+  - first:
+      213: 21300076
+    second: OLL_38
+  - first:
+      213: 21300078
+    second: OLL_39
+  - first:
+      213: 21300080
+    second: OLL_40
+  - first:
+      213: 21300082
+    second: OLL_41
+  - first:
+      213: 21300084
+    second: OLL_42
+  - first:
+      213: 21300086
+    second: OLL_43
+  - first:
+      213: 21300088
+    second: OLL_44
+  - first:
+      213: 21300090
+    second: OLL_45
+  - first:
+      213: 21300092
+    second: OLL_46
+  - first:
+      213: 21300094
+    second: OLL_47
+  - first:
+      213: 21300096
+    second: OLL_48
+  - first:
+      213: 21300098
+    second: OLL_49
+  - first:
+      213: 21300100
+    second: OLL_50
+  - first:
+      213: 21300102
+    second: OLL_51
+  - first:
+      213: 21300104
+    second: OLL_52
+  - first:
+      213: 21300106
+    second: OLL_53
+  - first:
+      213: 21300108
+    second: OLL_54
+  - first:
+      213: 21300110
+    second: OLL_55
+  - first:
+      213: 21300112
+    second: OLL_56
+  - first:
+      213: 21300114
+    second: OLL_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OLL_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1152
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ae481d00a1334ab4bc419a690f159
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1008
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa65e61b8abc7a42a2b9d8e53ec1bc4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 862
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3a655b800417438aff5ab57a4fcf4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 720
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0c3dd6ac18a047900e70072222c76
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222fb1bbe5645164caaed7715c3d8121
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 435
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96edd21c193b7664e8f935fc9b072a21
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f82430bc6eb334db215c92fa448e8f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 151
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5bb57da1121a84ab2d5d9dfd57d4ff
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281593f67d69de4b845a88f3ff0dbe8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1294
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05096e9d7bd34344a9286037ce07318
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1149
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa6eeb01dbbe1f48a2f8841c66a792e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1005
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4531e5da83642419f0d57742d189a5
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 862
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5ba699f7ac04428ffc2cec33981bc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 719
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21206350eb74c2f4cb1b4d0385903ec3
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 577
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299db3712669a54cbcad436d335220f
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 436
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c8d2f941f3a341a1abeb8e55a0f4a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808905a1f5037cb4890d738a902c345b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 152
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99d15816516794da228192dc491373
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f31acfd7ff18041ab602a784219344
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1292
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501fc8b3442f5641a2faad8892c2c57
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_20
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1149
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad8d7e07062ba44b685645335b6675
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_21
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1008
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37645629a3a914d4d80674b60cdda7e8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_22
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 864
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ed7da3c4826443ace2a169c051c2d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_23
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 722
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bed0beec7329ac4aa849bc3456b5c16
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_24
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 579
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea3a82f26077744a65119bc644be1c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_25
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 435
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b473bb3118984dbe73ebd88157bf5
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_26
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd5734393955c409f8f88b014fe803
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 150
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76bd7f604abf04991c5a1ad1d9dc42
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_28
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 8
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637c15daf661494b9992778da42e3a6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_29
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba549ed7ea5c7546ac2d753df543901
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_30
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1150
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2395560b27a824288470b342330138
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_31
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1007
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a7df9475fb4a448bdbe569d1194192
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_32
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 864
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c96616ac56634baeb64c8f9e5fcbe
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_33
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 722
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473755bc07c18b84d941998ab21bdb4c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_34
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 578
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8725a6c4263139c44bd9fd615d006fd1
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_35
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 435
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b8bc3f63d88b4b9e2fca053de15ae
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_36
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c1ff791ff285148b6b3367958f382a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_37
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 149
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dfd09e4f0c33c489aea9aa80f780cf
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_38
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0fd709ef640044a58eb88515b0003
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_39
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1292
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c569fbf0746547abaaa8c47e527a0
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_40
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1150
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51efe1c7770f1b4aa6e19dcbbc8c309
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_41
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1006
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bae3ce4f7f9114e8e4195c8e865bb0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_42
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 865
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a15e30281be35499bd09c92e8860c6
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_43
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 722
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9f94112511f6442a3bcfd3e8eb29f9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_44
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 578
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30730852d8653b84d93e3a0338a9aec0
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_45
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 436
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f127510fd1722c44a1d509cb5ad77d9
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_46
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 293
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f143db67d11f4c8c2e00b2db0676b
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_47
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 151
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d39ca094375874f9bb4f6c02325dc1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_48
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 8
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e098ed0e0576a4eb2fdba50e7209bb
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_49
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1292
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70eb01efd7fd648ac5ca18957ee41c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_50
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1150
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51354bd5fe00e614d98ffb59fc42e071
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_51
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1007
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480bfad63021ba7418fc62b1b2df899a
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_52
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 864
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22ef0516a419242ad0696f1ea7e13b
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_53
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 721
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4075dfa89c615b4686ead0c84be2c52
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_54
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 579
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27ea0eedbc20a45a0631b9bd866e3d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_55
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 436
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942514f070978147a0aa6e45414c82f
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OLL_56
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 294
+        width: 544
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51a94889efcce4b9b189eb90295c1a
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c898d81ce4a85f48865eb692042228a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
