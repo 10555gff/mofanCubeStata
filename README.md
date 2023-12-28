@@ -1,3 +1,4 @@
+![image](https://github.com/10555gff/mofanCubeStata/assets/30888472/c3b106e1-e0d2-4789-8bbd-ea9cb3418445)
 
 #### 介绍
 基于Unity开发的魔方游戏,一个用测试魔方状态的Demo示例
